@@ -1,4 +1,3 @@
-<a href="https://app.daily.dev/0xWhoknows"><img src="https://api.daily.dev/devcards/9c690dfb3a874f4881b5bd818eb92c4e.png?r=nqw" width="400" alt="Who Knows's Dev Card"/></a>
 <h1 align="center">👋 Hi, I’m @0xWhoknows</h1>
 <h3 align="center">👀 I’m interested in Woman </h3>
 <h3 align="center">🌱 I’m currently learning how to live life</h3>
